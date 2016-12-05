@@ -1,0 +1,17 @@
+{
+    "name": "krocos/composite-specification",
+    "description": "Composite specification pattern implementation",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Balin Vladimir",
+            "email": "krocos@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": { "Krocos\\CompositeSpecification\\": "src/" }
+    },
+    "require": {},
+    "require-dev": {}
+}
