@@ -5,5 +5,5 @@ Composite specification pattern implementation using the PHP programming languag
 
 ## Installation
 ```bash
-composer require krocos/composite-specification:dev-master
+composer require krocos/composite-specification
 ```
